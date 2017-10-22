@@ -1,2 +1,2 @@
-This is the first file (other than the read me).
-This is the only change in first commit to 'develop'.
+This is the first file (other than the readme).
+This is the only change in the first commit to 'develop'.
